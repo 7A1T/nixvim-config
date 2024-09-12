@@ -2,7 +2,7 @@ flake input
 ```
 {
     inputs = {
-        nixvim.url = "github:dc-tec/nixvim"
+        nixvim.url = "github:/7A1T/nixvim-config/"
     };
 }
 ```
